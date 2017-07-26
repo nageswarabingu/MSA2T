@@ -1,0 +1,21 @@
+{
+  "name": "mean-ang21",
+  "version": "1.0.0",
+  "description": "MEAN Stack Angular 2 Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2"
+  ],
+  "author": "Nageswara Bingu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
